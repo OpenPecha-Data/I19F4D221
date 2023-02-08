@@ -1,0 +1,71 @@
+id: bca03396a22c4908bfbea6188dbf4778
+annotation_type: index
+revision: '00001'
+annotations:
+  a21733cd65af498ca0557e43ea804ff6:
+    base: F096.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 7
+    - title: Preface
+      span:
+        start: 8
+        end: 29
+    - title: 'Chapter 1: Upodghātaḥ'
+      span:
+        start: 30
+        end: 267
+    - title: 'Chapter 2: Hetustavaḥ'
+      span:
+        start: 268
+        end: 697
+    - title: 'Chapter 3: Nirupamastavaḥ'
+      span:
+        start: 698
+        end: 1079
+    - title: 'Chapter 4: Adbhutastavaḥ'
+      span:
+        start: 1080
+        end: 1341
+    - title: 'Chapter 5: Rūpastavaḥ'
+      span:
+        start: 1342
+        end: 1507
+    - title: 'Chapter 6: Karuṇāstavaḥ'
+      span:
+        start: 1508
+        end: 1745
+    - title: 'Chapter 7: Vacanastavaḥ'
+      span:
+        start: 1746
+        end: 2126
+    - title: 'Chapter 8: Śāsanastavaḥ'
+      span:
+        start: 2127
+        end: 2388
+    - title: 'Chapter 9: Praṇidhistavaḥ'
+      span:
+        start: 2389
+        end: 2650
+    - title: 'Chapter 10: Mārgaāvatārastavaḥ'
+      span:
+        start: 2651
+        end: 2935
+    - title: 'Chapter 11: Duṣkarastavaḥ'
+      span:
+        start: 2936
+        end: 3221
+    - title: 'Chapter 12: Kauśalastavaḥ'
+      span:
+        start: 3222
+        end: 3507
+    - title: 'Chapter 13: Ānṛṇyastavaḥ'
+      span:
+        start: 3508
+        end: 4025
+    - title: Colophon
+      span:
+        start: 4026
+        end: 4033

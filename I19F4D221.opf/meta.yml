@@ -1,0 +1,16 @@
+id: I19F4D221
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:05:36.857024
+last_modified: 2023-02-08 16:05:36.857127
+source_metadata:
+  title: 'Mātṛceṭa: Śatapañcāśatka'
+  language: zh
+bases:
+  F096:
+    base_file: F096.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
